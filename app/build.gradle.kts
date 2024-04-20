@@ -39,7 +39,7 @@ android {
         targetCompatibility = JavaVersion.VERSION_1_8
     }
     defaultConfig {
-        manifestPlaceholders["MAPS_API_KEY"] = "AIzaSyBkC2aOxt-ilf1o8ff06iJb5UeJ1GvSVWk"
+        manifestPlaceholders["MAPS_API_KEY"] = "AIzaSyCwQrG5y3YMqi95pn2VRVkMK0dANGj3pcI"
     }
 }
 
