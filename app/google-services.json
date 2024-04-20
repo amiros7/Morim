@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "22077080734",
+    "firebase_url": "https://morim-8ba92-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "morim-8ba92",
+    "storage_bucket": "morim-8ba92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22077080734:android:29955b2efe61d827a3678f",
+        "android_client_info": {
+          "package_name": "com.example.morim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzXK2_-zZVXah9nddrc0Qu8qrrkA1zA1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
